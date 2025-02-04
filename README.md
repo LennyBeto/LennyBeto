@@ -32,7 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lenny-suswa-513819111/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://x.com/DevBeto)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:lennybeto95@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:lennybeto.lb@gmail.com)
 
 Thank you for visiting my profile! Have a great day! 😊
 
