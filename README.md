@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Django](https://img.shields.io/badge/-Django-05122A?&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
