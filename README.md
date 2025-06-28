@@ -7,11 +7,11 @@
 ## About Me
 
 - 🔭 I’m currently working on Backend development projects
-- 🌱 I’m currently learning Javascript and DevOps tools (Docker & Kubernetes), Jenkins and GraphQL
+- 🌱 I’m currently learning DevOps tools such as Docker & Kubernetes, Jenkins and GraphQL
 - 👯 I’m looking to collaborate on any open-source projects
 - 🤔 I’m looking for help with Jenkins and GraphQL
 - 💬 Ask me about Python, MySQL, and Django & REST API Frameworks
-- 📫 How to reach me: lennybeto95@gmail.com
+- 📫 How to reach me: lennybeto.lb@gmail.com
 - ⚡ Fun fact: I love reading motivational books, learning new things, and watching crime documentaries.
 
 ## Languages and Tools
