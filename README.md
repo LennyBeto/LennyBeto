@@ -7,10 +7,9 @@
 ## About Me
 
 - 🔭 I’m currently working on Backend development projects
-- 🌱 I’m currently learning DevOps tools such as Docker & Kubernetes, Jenkins and GraphQL
+- 🌱 I’m currently perfecting DevOps tools such as Docker & Kubernetes, Jenkins and GraphQL
 - 👯 I’m looking to collaborate on any open-source projects
-- 🤔 I’m looking for help with Jenkins and GraphQL
-- 💬 Ask me about Python, MySQL, and Django & REST API Frameworks
+- 💬 Ask me about Python, MySQL, PostgreSQL, Django, Jenkins, GraphQL & REST API Frameworks
 - 📫 How to reach me: lennybeto.lb@gmail.com
 - ⚡ Fun fact: I love reading motivational books, learning new things, and watching crime documentaries.
 
@@ -24,6 +23,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+
 
 ## GitHub Activity
 
