@@ -31,7 +31,7 @@
 
 ## GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=compact&theme=radical) 
 
 ## Connect with Me
 
