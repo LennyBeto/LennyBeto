@@ -26,7 +26,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![REST](https://img.shields.io/badge/-RESTful-000?&logo=REST)
+![REST](https://img.shields.io/badge/-REST-000?&logo=REST)
 
 
 ## GitHub Activity
@@ -35,7 +35,7 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lenny-suswa-513819111/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lenny-suswa/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://x.com/DevBeto)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](lennybeto.lb@gmail.com)
 
