@@ -30,7 +30,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Celery](https://img.shields.io/badge/-Celery-000?&logo=Celery)
-![REST](https://img.shields.io/badge/-REST-000?&logo=REST)
+![RESTful](https://img.shields.io/badge/-RESTful-000?&logo=RESTful)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
