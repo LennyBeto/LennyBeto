@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm LennyBeto! 👋
+# Hi there, I'm Lenny Beto! 👋
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LennyBeto&show_icons=true&theme=radical)
 
