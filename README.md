@@ -22,12 +22,15 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![Celery](https://img.shields.io/badge/-Celery-000?&logo=Celery)
 ![REST](https://img.shields.io/badge/-REST-000?&logo=REST)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 
 ## GitHub Activity
