@@ -35,9 +35,6 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 
-## GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=compact&theme=radical) 
 
 ## My GitHub Activity Summary
 
