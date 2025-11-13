@@ -34,11 +34,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
+## GitHub Activity
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=compact&theme=radical) 
 
-## My GitHub Activity Summary
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=radar&theme=dark&hide_title=true&count_private=true)]
 
 ## Connect with Me
 
