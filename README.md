@@ -21,6 +21,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Django](https://img.shields.io/badge/-Django-05122A?&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
