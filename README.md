@@ -27,6 +27,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![REST](https://img.shields.io/badge/-REST-000?&logo=REST)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 
 ## GitHub Activity
