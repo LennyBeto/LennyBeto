@@ -38,7 +38,7 @@
 
 ## My GitHub Activity Summary
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=radar&theme=dark&hide_title=true&count_private=true)](https://github.com/LennyBeto)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=radar&theme=dark&hide_title=true&count_private=true)]
 
 ## Connect with Me
 
