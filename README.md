@@ -39,6 +39,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=compact&theme=radical) 
 
+## My GitHub Activity Summary
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=radar&theme=dark&hide_title=true&count_private=true)](https://github.com/LennyBeto)
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lenny-suswa/)
