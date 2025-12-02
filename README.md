@@ -25,17 +25,20 @@
 
 ### ☁️ Google Cloud Skill Badges Earned
 
-These skill badges confirm my hands-on ability to build, scale, and utilize advanced AI tools on the Google Cloud Platform (GCP).
-
 #### Infrastructure & Deployment
-
-[![Google Cloud Skill Badge](https://img.shields.io/badge/App%20Dev%20Environment-GCP-blue?style=flat&logo=google-cloud)](**[https://www.credly.com/earner/earned/badge/8617c762-4f4f-4ac7-baea-ee59b2420a8f]**)
-[![Google Cloud Skill Badge](https://img.shields.io/badge/Load%20Balancing-Compute%20Engine-blue?style=flat&logo=google-cloud)](**[https://www.credly.com/earner/earned/badge/3c006ca3-c698-4dd0-a61f-04a04c7edf6c]**)
+[![Google Cloud Skill Badge](https://img.shields.io/badge/App%20Dev%20Environment-GCP-blue?style=flat&logo=google-cloud)](https://www.credly.com/earner/earned/badge/8617c762-4f4f-4ac7-baea-ee59b2420a8f)
+[![Google Cloud Skill Badge](https://img.shields.io/badge/Load%20Balancing-Compute%20Engine-blue?style=flat&logo=google-cloud)](https://www.credly.com/earner/earned/badge/3c006ca3-c698-4dd0-a61f-04a04c7edf6c)
 
 #### Artificial Intelligence
+[![Google Cloud Skill Badge](https://img.shields.io/badge/Prompt%20Design-Vertex%20AI-darkgreen?style=flat&logo=google-cloud)](https://www.credly.com/earner/earned/badge/651db127-1975-4fe7-952e-622cfb913aca)
 
-[![Google Cloud Skill Badge](https://img.shields.io/badge/Prompt%20Design-Vertex%20AI-darkgreen?style=flat&logo=google-cloud)](**[https://www.credly.com/earner/earned/badge/651db127-1975-4fe7-952e-622cfb913aca]**)
+<p align="center">
+  <a href="https://www.credly.com/users/lenny-suswa">
+    <img src="https://img.shields.io/badge/View_All_Badges-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View Credly Profile"/>
+  </a>
+</p>
 
+---
 
 ### Languages and Tools
 
