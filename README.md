@@ -63,10 +63,22 @@ These skill badges confirm my hands-on ability to build, scale, and utilize adva
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LennyBeto\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LennyBeto\&theme=tokyonight\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto\&theme=tokyonight\&hide_border=false\&layout=compact)
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LennyBeto&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LennyBeto&theme=dark&hide_border=false" /> 
+</td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LennyBeto&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 
 ---
