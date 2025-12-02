@@ -59,9 +59,15 @@ These skill badges confirm my hands-on ability to build, scale, and utilize adva
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Nextjs)
 
-## GitHub Activity
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=compact&theme=radical) 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=LennyBeto\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LennyBeto\&theme=tokyonight\&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto\&theme=tokyonight\&hide_border=false\&layout=compact)
+
+
 
 ---
 
