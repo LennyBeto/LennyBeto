@@ -63,6 +63,15 @@ These skill badges confirm my hands-on ability to build, scale, and utilize adva
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto&layout=compact&theme=radical) 
 
+---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+
 
 ## Connect with Me
 
