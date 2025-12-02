@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/2af29d74-629a-45c2-9f8b-bb3551138679)
 
-**Backend Engineer | AI Engineer | Prompt Engineer | Google Cloud Application Developer**
+## **Backend Engineer | AI Engineer | Prompt Engineer | Google Cloud Application Developer**
 
 ✉️ **Reach Me At:** **[lennybeto.lb@gmail.com](mailto:lennybeto.lb@gmail.com)** for collaborations, projects, or tech discussions
 
