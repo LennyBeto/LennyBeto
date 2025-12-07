@@ -2,8 +2,18 @@
 
 # 💫 Hi 👋, I'm Lenny Beto
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px" />
+</div>
 
-![image](https://github.com/user-attachments/assets/2af29d74-629a-45c2-9f8b-bb3551138679)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lenny+Beto+👋;A+Passionate+Backend+Developer+Problem+Solver;Building+the+Web%2C+One+Pixel+at+a+Time." alt="Typing SVG" />
+
+  </a>
+</div>
+
+---
 
 
 ## **Backend Engineer | AI Engineer | Prompt Engineer | Google Cloud Application Developer**
