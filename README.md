@@ -28,7 +28,7 @@
 - 👯 Open to Collaboration: Actively seeking opportunities to contribute to impactful open-source projects, particularly in backend infrastructure, API development, and cloud-native applications.
 - 💬 Technical Expertise: Python ecosystem (Django), Database Design (MySQL, PostgreSQL), RESTful & GraphQL APIs, Celery task queues, Jenkins automation, and cloud deployment strategies.
 - 📫 Let's Connect: lennybeto.lb@gmail.com – Open to discussing technical challenges, collaboration opportunities, or industry insights.
-- ⚡ Beyond Code: Continuous learner passionate about personal development literature and emerging technologies.
+- ⚡ Beyond Code: Continuous learner passionate about personal development, literature, and emerging technologies.
 
 
 ## 💻 Tech Stack:
