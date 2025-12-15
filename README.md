@@ -39,8 +39,12 @@
 [![Google Cloud Skill Badge](https://img.shields.io/badge/App%20Dev%20Environment-GCP-blue?style=flat&logo=google-cloud)](https://www.credly.com/earner/earned/badge/8617c762-4f4f-4ac7-baea-ee59b2420a8f)
 [![Google Cloud Skill Badge](https://img.shields.io/badge/Load%20Balancing-Compute%20Engine-blue?style=flat&logo=google-cloud)](https://www.credly.com/earner/earned/badge/3c006ca3-c698-4dd0-a61f-04a04c7edf6c)
 
-#### Artificial Intelligence
+Prepare Data for ML APIs on Google Cloud
+
+#### AI/ML
 [![Google Cloud Skill Badge](https://img.shields.io/badge/Prompt%20Design-Vertex%20AI-darkgreen?style=flat&logo=google-cloud)](https://www.credly.com/earner/earned/badge/651db127-1975-4fe7-952e-622cfb913aca)
+[![Google Cloud Skill Badge](https://img.shields.io/badge/Prepare%20Data%20for%20ML%20APIs-blue?style=flat&logo=google-cloud)]
+(https://www.credly.com/earner/earned/badge/638082c2-5599-417e-bfa8-f468ee7c4368) 
 
 <p align="center">
   <a href="https://www.credly.com/users/lenny-suswa">
