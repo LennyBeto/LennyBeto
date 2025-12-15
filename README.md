@@ -23,12 +23,12 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Backend development projects
-- 🌱 I’m currently perfecting DevOps tools such as Docker & Kubernetes, Jenkins and GraphQL
-- 👯 I’m looking to collaborate on any open-source projects
-- 💬 Ask me about Python, MySQL, PostgreSQL, Django, Jenkins, GraphQL & REST API Frameworks
-- 📫 How to reach me: lennybeto.lb@gmail.com
-- ⚡ Fun fact: I love reading motivational books, learning new things, and watching crime documentaries.
+- 🔭 Current Focus: Building scalable backend systems and production-ready APIs with Django, GraphQL, and microservices architecture.
+- 🌱 Expanding Expertise: Deepening proficiency in DevOps practices, including Docker containerization, Kubernetes orchestration, CI/CD pipelines with Jenkins, and advanced GraphQL implementations.
+- 👯 Open to Collaboration: Actively seeking opportunities to contribute to impactful open-source projects, particularly in backend infrastructure, API development, and cloud-native applications.
+- 💬 Technical Expertise: Python ecosystem (Django), Database Design (MySQL, PostgreSQL), RESTful & GraphQL APIs, Celery task queues, Jenkins automation, and cloud deployment strategies.
+- 📫 Let's Connect: lennybeto.lb@gmail.com – Open to discussing technical challenges, collaboration opportunities, or industry insights.
+- ⚡ Beyond Code: Continuous learner passionate about personal development literature and emerging technologies.
 
 
 ## 💻 Tech Stack:
