@@ -75,6 +75,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Nextjs)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=google-cloud)
 
 ---
 
