@@ -74,7 +74,7 @@
 ![RESTful](https://img.shields.io/badge/-RESTful-000?&logo=RESTful)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Nextjs)
+![Nextjs](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=google-cloud)
 
 ---
