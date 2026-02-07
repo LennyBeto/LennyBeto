@@ -76,7 +76,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Nextjs](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=google-cloud)
-![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React-Native)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 
 ---
 
