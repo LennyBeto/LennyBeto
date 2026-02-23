@@ -77,7 +77,8 @@
 ![Nextjs](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=google-cloud)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
+![NativeWind](https://img.shields.io/badge/-NativeWind-000?&logo=React)
 
 ---
 
