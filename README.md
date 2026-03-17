@@ -90,6 +90,7 @@
 <div align="center">
    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBeto\&theme=tokyonight\&hide_border=false\&layout=compact)
+
 </div>
 
 ---
