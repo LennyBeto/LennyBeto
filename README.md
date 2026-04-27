@@ -23,7 +23,7 @@
 
 ## About Me
 
-- 🔭 Current Focus: Building scalable backend systems and production-ready APIs with Django, GraphQL, and microservices architecture.
+- 🔭 Current Focus: Building scalable backend systems and production-ready APIs with Django, DRF, FastAPI, GraphQL, and microservices architecture.
 - 🌱 Expanding Expertise: Deepening proficiency in DevOps practices, including Docker containerization, Kubernetes orchestration, CI/CD pipelines with Jenkins, and advanced GraphQL implementations.
 - 👯 Open to Collaboration: Actively seeking opportunities to contribute to impactful open-source projects, particularly in backend infrastructure, API development, and cloud-native applications.
 - 💬 Technical Expertise: Python ecosystem (Django), Database Design (MySQL, PostgreSQL), RESTful & GraphQL APIs, Celery task queues, Jenkins automation, and cloud deployment strategies.
