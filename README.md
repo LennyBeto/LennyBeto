@@ -43,7 +43,7 @@
 #### AI/ML
 [![Google Cloud Skill Badge](https://img.shields.io/badge/Prompt%20Design-Vertex%20AI-darkgreen?style=flat&logo=google-cloud)](https://www.credly.com/earner/earned/badge/651db127-1975-4fe7-952e-622cfb913aca)
 [![Google Cloud Skill Badge](https://img.shields.io/badge/Prepare%20Data%20for%20ML%20APIs-Google%20Cloud-orange?style=flat&logo=google-cloud)](https://www.credly.com/earner/earned/badge/638082c2-5599-417e-bfa8-f468ee7c4368)
- 
+[![AI Literacy Badge](https://img.shields.io/badge/AI%20Literacy-orange?style=flat)](https://www.credly.com/earner/earned/badge/0bdfd77a-b160-4cfb-89f1-46e940e4522f)
  
 
 <p align="center">
