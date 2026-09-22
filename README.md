@@ -17,7 +17,7 @@
 
 ## **Backend AI Engineer | Prompt Engineer | Google Cloud Application Developer**
 
-✉️ **Reach Me At:** **[lennybeto.lb@gmail.com](mailto: dev.beto19@gmail.com)** for collaborations, projects, or tech discussions
+✉️ **Reach Me At:** **[dev.beto19@gmail.com](mailto:dev.beto19@gmail.com)** for collaborations, projects, or tech discussions
 
 
 ## About Me
