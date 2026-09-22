@@ -17,7 +17,7 @@
 
 ## **Backend AI Engineer | Prompt Engineer | Google Cloud Application Developer**
 
-✉️ **Reach Me At:** **[lennybeto.lb@gmail.com](mailto:lennybeto.lb@gmail.com)** for collaborations, projects, or tech discussions
+✉️ **Reach Me At:** **[lennybeto.lb@gmail.com](mailto: dev.beto19@gmail.com)** for collaborations, projects, or tech discussions
 
 
 ## About Me
@@ -26,7 +26,7 @@
 - 🌱 Expanding Expertise: Deepening proficiency in DevOps practices, including Docker containerization, Kubernetes orchestration, CI/CD pipelines with Jenkins, and advanced GraphQL implementations.
 - 👯 Open to Collaboration: Actively seeking opportunities to contribute to impactful open-source projects, particularly in backend infrastructure, API development, and cloud-native applications.
 - 💬 Technical Expertise: Python ecosystem (Django), Database Design (MySQL, PostgreSQL), RESTful & GraphQL APIs, Celery task queues, Jenkins automation, and cloud deployment strategies.
-- 📫 Let's Connect: lennybeto.lb@gmail.com – Open to discussing technical challenges, collaboration opportunities, or industry insights.
+- 📫 Let's Connect: dev.beto19@gmail.com – Open to discussing technical challenges, collaboration opportunities, or industry insights.
 - ⚡ Beyond Code: Continuous learner passionate about personal development, literature, and emerging technologies.
 
 
